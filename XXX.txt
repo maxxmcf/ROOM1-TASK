@@ -1,1 +1,4 @@
-Lalalalalallalalalal it is my content
+lalallalalalal it is my content
+=======
+# Not my file! - Chloe
+>>>>>>> c36a468153aa8d551926a95ebbb95a9ea105a0dd
